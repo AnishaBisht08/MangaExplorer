@@ -24,11 +24,11 @@ while learning MVVM architecture, REST API integration, Jetpack Compose, and Roo
 
 <h2>Screenshots</h2>
 
-<img src="splashscreen.png" width="250"> <img src="home.png" width="250">
-<img src="home_2.png" width="250"> <img src="menu_icon.png" width="250">
-<img src="favorite.png" width="250"> <img src="seachbar.png" width="250">
-<img src="detail.png" width="250"> <img src="detail_2.png" width="250">
-<img src="viewonkitsu.png" width="250"> <img src="mangapage.png" width="250">
+<img src="splashscreen.jpg" width="250"> <img src="home.jpg" width="250">
+<img src="home_2.jpg" width="250"> <img src="menu_icon.jpg" width="250">
+<img src="favorite.jpg" width="250"> <img src="seachbar.jpg" width="250">
+<img src="detail.jpg" width="250"> <img src="detail_2.jpg" width="250">
+<img src="viewonkitsu.jpg" width="250"> <img src="mangapage.jpg" width="250">
 
 ---
 
