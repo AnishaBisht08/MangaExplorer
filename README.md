@@ -22,13 +22,13 @@ while learning MVVM architecture, REST API integration, Jetpack Compose, and Roo
 
 ## 📸 Screenshots
 
-| Home | Search |
-|------|--------|
-| ![](screenshots/home.png) | ![](screenshots/search.png) |
+<h2>Screenshots</h2>
 
-| Details | Favorites |
-|---------|-----------|
-| ![](screenshots/details.png) | ![](screenshots/favorites.png) |
+<img src="splashscreen.png" width="250"> <img src="home.png" width="250">
+<img src="home_2.png" width="250"> <img src="menu_icon.png" width="250">
+<img src="favorite.png" width="250"> <img src="seachbar.png" width="250">
+<img src="detail.png" width="250"> <img src="detail_2.png" width="250">
+<img src="viewonkitsu.png" width="250"> <img src="mangapage.png" width="250">
 
 ---
 
