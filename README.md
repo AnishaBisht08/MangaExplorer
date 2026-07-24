@@ -28,7 +28,7 @@ while learning MVVM architecture, REST API integration, Jetpack Compose, and Roo
 
 | Home1 | Home2 | Hamburger icon|
 |---------|--------|----------|
-| ![](home.jpg) | ![](home2.jpg) | ![](menu_icon.jpg) |
+| ![](home.jpg) | ![](home_2.jpg) | ![](menu_icon.jpg) |
 
 | Favorite | Searchbar| Detail1|
 |------|------|----------|
@@ -36,7 +36,7 @@ while learning MVVM architecture, REST API integration, Jetpack Compose, and Roo
 
 |Detail2 | Kitsu Page| MangaPage|
 |------|------|----------|
-| ![](detail 2.jpg) | ![](viewonkitsu.jpg) | ![](mangpage.jpg) |
+| ![](detail_2.jpg) | ![](viewonkitsu.jpg) | ![](mangpage.jpg) |
 
 ---
 
