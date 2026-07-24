@@ -36,7 +36,7 @@ while learning MVVM architecture, REST API integration, Jetpack Compose, and Roo
 
 |Detail2 | Kitsu Page| MangaPage|
 |------|------|----------|
-| ![](detail_2.jpg) | ![](viewonkitsu.jpg) | ![](mangpage.jpg) |
+| ![](detail_2.jpg) | ![](viewonkitsu.jpg) | ![](mangapage.jpg) |
 
 ---
 
